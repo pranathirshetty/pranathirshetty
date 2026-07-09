@@ -25,7 +25,7 @@ Building elegant, responsive web experiences with modern frontend technologies.
 
 ---
 
-# 💻 Tech Stack & Ecosystem
+# 💻 Tech Stack 
 
 ## ✨ Frontend Development
 
