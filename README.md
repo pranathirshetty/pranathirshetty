@@ -13,7 +13,7 @@ Building elegant, responsive web experiences with modern frontend technologies.
 
 ---
 
-# 🌸 About Me
+#  👩‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
 - 💻 Passionate about Frontend Development
