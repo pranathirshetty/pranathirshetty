@@ -12,10 +12,9 @@ Building elegant, responsive web experiences with modern frontend technologies.
 </p>
 
 
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranathirshetty&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranathirshetty&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
 </p>
-
 
 ---
 
