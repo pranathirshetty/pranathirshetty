@@ -11,12 +11,11 @@ Frontend Developer • Computer Science Student
 Building elegant, responsive web experiences with modern frontend technologies.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranathirshetty&label=Profile%20Views&color=8B5CF6&style=flat" />
-  <a href="https://github.com/pranathirshetty?tab=followers">
-    <img src="https://img.shields.io/github/followers/pranathirshetty?label=Followers&style=flat&color=8B5CF6" />
-  </a>
+
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranathirshetty&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile Views"/>
 </p>
+
 
 ---
 
