@@ -88,6 +88,9 @@ Building elegant, responsive web experiences with modern frontend technologies.
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=pranathirshetty&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pranathirshetty&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranathirshetty&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
