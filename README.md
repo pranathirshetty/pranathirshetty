@@ -87,12 +87,9 @@ Building elegant, responsive web experiences with modern frontend technologies.
 
 ---
 
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranathirshetty&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=8B5CF6&point=60A5FA&area=true&area_color=8B5CF6" width="100%">
+  <img src="https://ghchart.rshah.org/8B5CF6/pranathirshetty" alt="Pranathi's Contribution Graph" width="100%" />
 </p>
-
 ---
 
 # 🐍 Contribution Snake
